@@ -1,1 +1,2 @@
 mi-archivo.txt
+realizando cambios para la segunda rama de git 
